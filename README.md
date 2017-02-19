@@ -40,3 +40,12 @@ Data can be downloaded [here](https://data2.nhgis.org/main)
 magellan@victoria:~/gis/histgeodata$ git add README.md 
 magellan@victoria:~/gis/histgeodata$ git push origin master 
 Everything up-to-date
+
+## Misc
+
+### CensusMosaic 
+
+A collection of Historical GIS files mainly from Europe, Germany and Austro-Hungarian Empire. 
+Registration: Yes
+Data can be downloaded [here](http://censusmosaic.org/data/historical-gis-files)
+
