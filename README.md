@@ -8,6 +8,8 @@ the data source in your published work.
 
 ## Cross-Country
 
+### European Borders 1938-1944
+
 Registration: No
 
 The Spatial History Project has mapped the territorial changes during the
