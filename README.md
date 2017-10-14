@@ -1,12 +1,24 @@
-# histgeodata
+# Historical Vector Geo-Data
 
 ## Links to historical geo-data on the web
 
-This repository is a list of links to historical vector-based gis-data.
+This repository is a list of links to historical vector-based gis-data
+(I intend to add a list for raster-based data in the future).
+
 Please respect the data providers license requirements and always do credit
 the data source in your published work.  
 
 ## Cross-Country
+
+### CensusMosaic
+
+A collection of Historical GIS files mainly from Europe, Germany and
+Austro-Hungarian Empire. Suitable especially for choropleth maps
+(can be linked via the ID to statistical datasets).
+
+Registration: Yes
+
+Data can be downloaded [here](http://censusmosaic.org/data/historical-gis-files)
 
 ### European Borders 1938-1944
 
@@ -16,6 +28,7 @@ The Spatial History Project has mapped the territorial changes during the
 second world war from April 1938 - to November 1944. Shapefiles can be
 downloaded in a zip file from the [spatial-history website]
 (https://github.com/OSHistory/histgeodata).
+
 
 ## Historical GIS projects for Countries (alphabetical order)
 
@@ -53,16 +66,14 @@ Data can be downloaded [here](http://www.fas.harvard.edu/~chgis/japan/archive/)
 
 ### USA
 
+#### National GIS
+
 Registration: Yes
 
 Data can be downloaded [here](https://data2.nhgis.org/main)
 
-## Misc
+#### Projects
 
-### CensusMosaic
-
-A collection of Historical GIS files mainly from Europe, Germany and Austro-Hungarian Empire. Suitable especially for choropleth maps (can be linked via the ID to statistical datasets).
-
-Registration: Yes
-
-Data can be downloaded [here](http://censusmosaic.org/data/historical-gis-files)
+The Stanford Spatial History Project has compiled a list of historical census data
+for the US 1790 to present. The data is available as a repository on [github]
+(https://github.com/cestastanford/historical-us-city-populations)
