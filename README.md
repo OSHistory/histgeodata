@@ -29,6 +29,15 @@ second world war from April 1938 - to November 1944. Shapefiles can be
 downloaded in a zip file from the [spatial-history website]
 (https://github.com/OSHistory/histgeodata).
 
+### Geo-Larhra
+
+Registration: No
+
+
+Historical Vector Data mainly for france, benelux and italy.
+Data is provided as shapefiles. 
+[here](http://geo-larhra.org/?q=geocatalogue/vectors)
+
 
 ## Historical GIS projects for Countries (alphabetical order)
 
