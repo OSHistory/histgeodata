@@ -38,6 +38,16 @@ Historical Vector Data mainly for france, benelux and italy.
 Data is provided as shapefiles. 
 [here](http://geo-larhra.org/?q=geocatalogue/vectors)
 
+### Histo-GIS 
+
+Registration: No 
+
+A GeoDjango based project by the Austrian Centre for Digital Humanities 
+providing historical vector data for germany and austria. 
+Aims to map the political territoriality 
+of the habsburg austrian-hungarian empire (KuK). Project started 
+May 2018. You can browse the currently available data
+[here](https://histogis.acdh.oeaw.ac.at/)
 
 ## Historical GIS projects for Countries (alphabetical order)
 
