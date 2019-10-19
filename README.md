@@ -26,8 +26,8 @@ Registration: No
 
 The Spatial History Project has mapped the territorial changes during the
 second world war from April 1938 - to November 1944. Shapefiles can be
-downloaded in a zip file from the [spatial-history website]
-(https://github.com/OSHistory/histgeodata).
+downloaded in a zip file from their website
+[here](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=51).
 
 ### Geo-Larhra
 
