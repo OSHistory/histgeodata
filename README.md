@@ -60,8 +60,8 @@ Data can be downloaded [here](http://www.fas.harvard.edu/~chgis/data/chgis/downl
 ### Germany
 
 This project aimed to track the territorial changes in Germany between 1830 and 1918,
-online version [here](http://www.hgis-germany.de/). The data can be accessed via the
-Harvard Geoportal. Data access is described on the hgis-website.
+online version [here](http://www.digihist.de/html/hgisg/index.htm). The data can be accessed via the
+[Earth Works Geoportal](https://earthworks.stanford.edu/) (search for 'hgis germany'). 
 
 Registration: No
 
