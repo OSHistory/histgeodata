@@ -75,7 +75,7 @@ Harvard Geoportal. Data access is described on the
 
 Registration: Yes
 
-Data can be downloaded [here](http://nlgis.dans.knaw.nl)
+Data can be downloaded [here](http://nlgis.dans.knaw.nl) Permalink to shapefile datav[DOI](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/)
 
 ### Japan
 
