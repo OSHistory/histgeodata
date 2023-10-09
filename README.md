@@ -77,6 +77,14 @@ Registration: Yes
 
 Data can be downloaded [here](http://nlgis.dans.knaw.nl) Permalink to shapefile datav[DOI](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/)
 
+### Low-Countries (Netherlands, Belgium, Northern-France, Luxemburg)
+
+Registration: No
+
+As of 2023 a sample of the data with high-resolution historical boundaries can be downloaded
+[via this portal](https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/PGFYTM)
+
+
 ### Japan
 
 Registration: No
