@@ -25,9 +25,10 @@ Data can be downloaded [here](http://censusmosaic.org/data/historical-gis-files)
 Registration: No
 
 The Spatial History Project has mapped the territorial changes during the
-second world war from April 1938 - to November 1944. Shapefiles can be
-downloaded in a zip file from their website
-[here](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=51).
+second world war from April 1938 - to November 1944. Shapefiles could be
+downloaded in a zip file from their [website](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=51), 
+which is no longer valid. Data can be accessed 
+via [web.archive](https://web.archive.org/web/20210731221637/https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=51)
 
 ### Geo-Larhra
 
