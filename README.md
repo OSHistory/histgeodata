@@ -102,6 +102,16 @@ Data can be downloaded [here](https://data2.nhgis.org/main)
 
 #### Projects
 
+##### Atlas of Historical County Boundaries
+
+Registration: No 
+
+Historical county files for the entire US from colonial times to the present: 
+
+Realeased under CC-BY-SA-ND [through their website](https://digital.newberry.org/ahcb/index.html)
+
+##### Historical Census 
+
 The Stanford Spatial History Project has compiled a list of historical census data
 for the US 1790 to present. The data is available as a repository on [github]
 (https://github.com/cestastanford/historical-us-city-populations)
