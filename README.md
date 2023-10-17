@@ -58,6 +58,15 @@ Registration: No
 
 Data can be downloaded [here](http://www.fas.harvard.edu/~chgis/data/chgis/downloads/v4/)
 
+### Great Britain 
+
+Registration: No (restricted Access)
+
+Data can be downloaded on [the A Vision of Britain Through Time Website](https://www.visionofbritain.org.uk/data/)
+
+County boundaries are released under CC-BY-NC-SA (s. License Agreement in the zip-files). Districts, Constituencies and 
+Parishes are only available to institutions within the UK.
+
 ### Germany
 
 This project aimed to track the territorial changes in Germany between 1830 and 1918,
