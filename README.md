@@ -20,6 +20,13 @@ Registration: Yes
 
 Data can be downloaded [here](http://censusmosaic.org/data/historical-gis-files)
 
+### Cshapes 
+
+A dataset of the changing world borders at high resolution. Available to 
+[download](https://icr.ethz.ch/data/cshapes/) or - if your are interested - in 
+particular point in time, the data is accessible thŕough a [web application](https://cshapes.ethz.ch/)
+using a slider widget.
+
 ### European Borders 1938-1944
 
 Registration: No
